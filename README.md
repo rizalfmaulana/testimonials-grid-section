@@ -2,6 +2,9 @@
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
+## Live Site
+Click here to [Live Site](https://testimonials-grid-section-sand-xi.vercel.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
